@@ -143,8 +143,9 @@ body{
 
 @media (max-width: 1192px){
     .container{
+        margin: 5rem;
         justify-content: center;
-        zoom: 1.2;
+        zoom: 1.8;
     }
     
 }
