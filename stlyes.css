@@ -140,3 +140,11 @@ body{
 .container:hover .shadow{
     width: 400px;
 }
+
+@media (max-width: 1192px){
+    .container{
+        justify-content: center;
+        zoom: 1.2;
+    }
+    
+}
